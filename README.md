@@ -1,9 +1,10 @@
 ## 📊 Data Science Project
-                               ![Status](https://img.shields.io/badge/status-active-brightgreen)
-                               ![License](https://img.shields.io/badge/license-MIT-blue)
-                                ![Python](https://img.shields.io/badge/language-Python-blue)
-                                ![Domain](https://img.shields.io/badge/domain-Machine%20Learning-orange)
-                                ![Tracking](https://img.shields.io/badge/tracking-MLflow%20%2B%20DagsHub-purple)
+![Status](https://img.shields.io/badge/status-active-brightgreen)
+![License](https://img.shields.io/badge/license-MIT-blue)
+![Python](https://img.shields.io/badge/language-Python-blue)
+![Domain](https://img.shields.io/badge/domain-Machine%20Learning-orange)
+![Tracking](https://img.shields.io/badge/tracking-MLflow%20%2B%20DagsHub-purple)
+                               
                                 
 
 ## 📌 Project Overview
