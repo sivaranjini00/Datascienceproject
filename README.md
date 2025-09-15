@@ -1,7 +1,11 @@
 ## 📊 Data Science Project
+                               ![Status](https://img.shields.io/badge/status-active-brightgreen)
+                               ![License](https://img.shields.io/badge/license-MIT-blue)
+                                ![Python](https://img.shields.io/badge/language-Python-blue)
+                                ![Domain](https://img.shields.io/badge/domain-Machine%20Learning-orange)
+                                ![Tracking](https://img.shields.io/badge/tracking-MLflow%20%2B%20DagsHub-purple)
+                                
 
-
-**Status:** Active   |   **License:** MIT   |
 ## 📌 Project Overview
 
 This project is an end-to-end Machine Learning pipeline designed using a modular architecture.
@@ -25,8 +29,9 @@ The pipeline is built following MLOps best practices and integrates with MLflow 
 
 🧪 Test/Train Split & Evaluation Metrics — Standard evaluation pipeline for comparing models
 
-## 🗂 Project Structure
-'''text
+## 🏗️ Project Structure
+
+```text
 Datascienceproject/
 │
 ├── config/
