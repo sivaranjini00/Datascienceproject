@@ -1,6 +1,7 @@
 ## 📊 Data Science Project
 
 
+**Status:** Active   |   **License:** MIT   |
 ## 📌 Project Overview
 
 This project is an end-to-end Machine Learning pipeline designed using a modular architecture.
